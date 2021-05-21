@@ -1,0 +1,2269 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-20T21:59:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237251",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_5",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3252374,
+          32.2909895
+        ]
+      },
+      "id": "node/3156237251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237253",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_16",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3226373,
+          32.2910175
+        ]
+      },
+      "id": "node/3156237253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237254",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_5_extension",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3247616,
+          32.2910237
+        ]
+      },
+      "id": "node/3156237254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237258",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3271758,
+          32.2910791
+        ]
+      },
+      "id": "node/3156237258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237259",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_5",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259782,
+          32.2910936
+        ]
+      },
+      "id": "node/3156237259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237261",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_16",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3228505,
+          32.2911105
+        ]
+      },
+      "id": "node/3156237261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237263",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.326469,
+          32.291138
+        ]
+      },
+      "id": "node/3156237263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237264",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_7",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328286,
+          32.2911499
+        ]
+      },
+      "id": "node/3156237264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237267",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_7",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328986,
+          32.2911587
+        ]
+      },
+      "id": "node/3156237267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237272",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_16",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3225039,
+          32.291229
+        ]
+      },
+      "id": "node/3156237272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237274",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3262074,
+          32.2912706
+        ]
+      },
+      "id": "node/3156237274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237277",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3228637,
+          32.291301
+        ]
+      },
+      "id": "node/3156237277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237278",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_7",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3289671,
+          32.2913269
+        ]
+      },
+      "id": "node/3156237278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237280",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3226452,
+          32.291333
+        ]
+      },
+      "id": "node/3156237280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237286",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_7",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3280828,
+          32.2913942
+        ]
+      },
+      "id": "node/3156237286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237290",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_14",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3236657,
+          32.2915378
+        ]
+      },
+      "id": "node/3156237290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237297",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259265,
+          32.2916298
+        ]
+      },
+      "id": "node/3156237297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237299",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.322568,
+          32.2916494
+        ]
+      },
+      "id": "node/3156237299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237304",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3266377,
+          32.2917196
+        ]
+      },
+      "id": "node/3156237304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237309",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3256847,
+          32.2917513
+        ]
+      },
+      "id": "node/3156237309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237311",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-1_extension",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3253638,
+          32.2918013
+        ]
+      },
+      "id": "node/3156237311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237313",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-_extension_2",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259196,
+          32.2918135
+        ]
+      },
+      "id": "node/3156237313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237315",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_14",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3240227,
+          32.2918143
+        ]
+      },
+      "id": "node/3156237315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237318",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3228695,
+          32.2918855
+        ]
+      },
+      "id": "node/3156237318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237322",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_14",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3240836,
+          32.2919388
+        ]
+      },
+      "id": "node/3156237322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237323",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3231727,
+          32.2919561
+        ]
+      },
+      "id": "node/3156237323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237328",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3266638,
+          32.2920811
+        ]
+      },
+      "id": "node/3156237328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237330",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3263731,
+          32.2920997
+        ]
+      },
+      "id": "node/3156237330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237331",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-_extension_2",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3268849,
+          32.2921098
+        ]
+      },
+      "id": "node/3156237331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237340",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259599,
+          32.2922417
+        ]
+      },
+      "id": "node/3156237340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237345",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-_extension_2",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259383,
+          32.292336
+        ]
+      },
+      "id": "node/3156237345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237348",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_5",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3237136,
+          32.2923947
+        ]
+      },
+      "id": "node/3156237348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237352",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-_extension_2",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3267058,
+          32.292425
+        ]
+      },
+      "id": "node/3156237352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237355",
+        "amenity": "water_point",
+        "district": "D10",
+        "source": "REACH",
+        "street": "street_6_-_extension_2",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259952,
+          32.292489
+        ]
+      },
+      "id": "node/3156237355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237356",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3229084,
+          32.2924939
+        ]
+      },
+      "id": "node/3156237356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237366",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_6",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3233802,
+          32.2926357
+        ]
+      },
+      "id": "node/3156237366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237370",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3236527,
+          32.2927366
+        ]
+      },
+      "id": "node/3156237370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237371",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_5",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3240693,
+          32.2927465
+        ]
+      },
+      "id": "node/3156237371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237375",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3231249,
+          32.2928297
+        ]
+      },
+      "id": "node/3156237375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237388",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3234285,
+          32.2930692
+        ]
+      },
+      "id": "node/3156237388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237396",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3231452,
+          32.2932772
+        ]
+      },
+      "id": "node/3156237396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237398",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.322989,
+          32.2933278
+        ]
+      },
+      "id": "node/3156237398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237401",
+        "amenity": "water_point",
+        "district": "D11",
+        "source": "REACH",
+        "street": "street_4",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3226466,
+          32.2933968
+        ]
+      },
+      "id": "node/3156237401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237461",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_24",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3300112,
+          32.2944961
+        ]
+      },
+      "id": "node/3156237461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237462",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_24",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3293432,
+          32.2945152
+        ]
+      },
+      "id": "node/3156237462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237464",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_15_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3247766,
+          32.2945483
+        ]
+      },
+      "id": "node/3156237464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237472",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3304717,
+          32.294765
+        ]
+      },
+      "id": "node/3156237472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237475",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_24",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3282811,
+          32.2948127
+        ]
+      },
+      "id": "node/3156237475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237477",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_15_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3242143,
+          32.2948447
+        ]
+      },
+      "id": "node/3156237477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237478",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_15_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3238325,
+          32.2948596
+        ]
+      },
+      "id": "node/3156237478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237480",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3254949,
+          32.2948978
+        ]
+      },
+      "id": "node/3156237480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237482",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3258566,
+          32.2949343
+        ]
+      },
+      "id": "node/3156237482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237484",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_15_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3238301,
+          32.2950099
+        ]
+      },
+      "id": "node/3156237484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237485",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3297646,
+          32.2950146
+        ]
+      },
+      "id": "node/3156237485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237489",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_24",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3278402,
+          32.2951231
+        ]
+      },
+      "id": "node/3156237489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237490",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_24",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3276544,
+          32.2951397
+        ]
+      },
+      "id": "node/3156237490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237493",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3258407,
+          32.2952204
+        ]
+      },
+      "id": "node/3156237493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237495",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_16",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.323168,
+          32.2952775
+        ]
+      },
+      "id": "node/3156237495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237496",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3300934,
+          32.2952812
+        ]
+      },
+      "id": "node/3156237496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237500",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3248864,
+          32.2953414
+        ]
+      },
+      "id": "node/3156237500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237502",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3247227,
+          32.2953868
+        ]
+      },
+      "id": "node/3156237502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237504",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3243702,
+          32.2954307
+        ]
+      },
+      "id": "node/3156237504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237508",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3241515,
+          32.2954791
+        ]
+      },
+      "id": "node/3156237508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237511",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_14_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3238903,
+          32.2955115
+        ]
+      },
+      "id": "node/3156237511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237513",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3282989,
+          32.2956069
+        ]
+      },
+      "id": "node/3156237513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237514",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3295912,
+          32.2956164
+        ]
+      },
+      "id": "node/3156237514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237515",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3238133,
+          32.2956275
+        ]
+      },
+      "id": "node/3156237515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237518",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3302536,
+          32.2956586
+        ]
+      },
+      "id": "node/3156237518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237520",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3279738,
+          32.2957029
+        ]
+      },
+      "id": "node/3156237520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237521",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3276785,
+          32.2957134
+        ]
+      },
+      "id": "node/3156237521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237522",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3264848,
+          32.2957793
+        ]
+      },
+      "id": "node/3156237522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237523",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3244993,
+          32.2958153
+        ]
+      },
+      "id": "node/3156237523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237524",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_14",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3228739,
+          32.2958272
+        ]
+      },
+      "id": "node/3156237524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237525",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_23",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3291845,
+          32.2958377
+        ]
+      },
+      "id": "node/3156237525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237526",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3282747,
+          32.2958574
+        ]
+      },
+      "id": "node/3156237526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237533",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3250525,
+          32.2959981
+        ]
+      },
+      "id": "node/3156237533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237534",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_12_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259366,
+          32.2960577
+        ]
+      },
+      "id": "node/3156237534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237535",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3246685,
+          32.2956636
+        ]
+      },
+      "id": "node/3156237535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237538",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_9_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3257043,
+          32.2960984
+        ]
+      },
+      "id": "node/3156237538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237539",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_21",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3302585,
+          32.2961089
+        ]
+      },
+      "id": "node/3156237539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237540",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_14",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3227999,
+          32.296123
+        ]
+      },
+      "id": "node/3156237540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237543",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3235697,
+          32.2961995
+        ]
+      },
+      "id": "node/3156237543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237544",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3279945,
+          32.2962001
+        ]
+      },
+      "id": "node/3156237544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237545",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328816,
+          32.2962124
+        ]
+      },
+      "id": "node/3156237545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237547",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3274811,
+          32.2962924
+        ]
+      },
+      "id": "node/3156237547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237549",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_10_B",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3256031,
+          32.2963355
+        ]
+      },
+      "id": "node/3156237549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237551",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_9_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3258412,
+          32.2964313
+        ]
+      },
+      "id": "node/3156237551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237552",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_10_B",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3251424,
+          32.2964366
+        ]
+      },
+      "id": "node/3156237552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237553",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3226807,
+          32.2964617
+        ]
+      },
+      "id": "node/3156237553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237554",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3284766,
+          32.296473
+        ]
+      },
+      "id": "node/3156237554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237555",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_21",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.330675,
+          32.2965011
+        ]
+      },
+      "id": "node/3156237555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237559",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_21",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3302506,
+          32.2966258
+        ]
+      },
+      "id": "node/3156237559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237561",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_9_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3260159,
+          32.2966558
+        ]
+      },
+      "id": "node/3156237561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237562",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3244741,
+          32.2966627
+        ]
+      },
+      "id": "node/3156237562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237563",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3276009,
+          32.2966681
+        ]
+      },
+      "id": "node/3156237563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237564",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3285608,
+          32.2966875
+        ]
+      },
+      "id": "node/3156237564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237565",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_11_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3249884,
+          32.2966888
+        ]
+      },
+      "id": "node/3156237565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237566",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_21",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3303549,
+          32.2967051
+        ]
+      },
+      "id": "node/3156237566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237569",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_13",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3231849,
+          32.2967775
+        ]
+      },
+      "id": "node/3156237569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237571",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_10_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3254934,
+          32.2968936
+        ]
+      },
+      "id": "node/3156237571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237573",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3281158,
+          32.2969124
+        ]
+      },
+      "id": "node/3156237573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237574",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_9_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.326628,
+          32.29692
+        ]
+      },
+      "id": "node/3156237574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237575",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3290186,
+          32.2969583
+        ]
+      },
+      "id": "node/3156237575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237576",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_11_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.325614,
+          32.2969775
+        ]
+      },
+      "id": "node/3156237576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237577",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_11",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3238945,
+          32.2969964
+        ]
+      },
+      "id": "node/3156237577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237584",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3290425,
+          32.2971387
+        ]
+      },
+      "id": "node/3156237584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237585",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_19",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3306222,
+          32.2971441
+        ]
+      },
+      "id": "node/3156237585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237586",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3280136,
+          32.2971806
+        ]
+      },
+      "id": "node/3156237586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237590",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_9_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.326404,
+          32.2973254
+        ]
+      },
+      "id": "node/3156237590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237591",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_11",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3229736,
+          32.2973413
+        ]
+      },
+      "id": "node/3156237591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237594",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3283943,
+          32.2973605
+        ]
+      },
+      "id": "node/3156237594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237595",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_10_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.325754,
+          32.2973776
+        ]
+      },
+      "id": "node/3156237595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237596",
+        "amenity": "water_point",
+        "district": "D3",
+        "source": "REACH",
+        "street": "street_7_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.326461,
+          32.2973973
+        ]
+      },
+      "id": "node/3156237596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237599",
+        "amenity": "water_point",
+        "district": "D4",
+        "source": "REACH",
+        "street": "street_11",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.323706,
+          32.2974782
+        ]
+      },
+      "id": "node/3156237599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237601",
+        "amenity": "water_point",
+        "district": "D3",
+        "source": "REACH",
+        "street": "street_7_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3260919,
+          32.2974948
+        ]
+      },
+      "id": "node/3156237601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237602",
+        "amenity": "water_point",
+        "district": "D3",
+        "source": "REACH",
+        "street": "street_8_B",
+        "type": "Attached_to_WASH_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3259184,
+          32.2975046
+        ]
+      },
+      "id": "node/3156237602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237606",
+        "amenity": "water_point",
+        "district": "D3",
+        "source": "REACH",
+        "street": "street_8_B",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3268352,
+          32.2975721
+        ]
+      },
+      "id": "node/3156237606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237608",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.327985,
+          32.2975811
+        ]
+      },
+      "id": "node/3156237608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156237609",
+        "amenity": "water_point",
+        "district": "D5",
+        "source": "REACH",
+        "street": "street_22",
+        "type": "Free_standing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3279479,
+          32.2975931
+        ]
+      },
+      "id": "node/3156237609"
+    }
+  ]
+}
